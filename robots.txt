@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wudi-tech.github.io/sitemap.xml
